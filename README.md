@@ -13,7 +13,7 @@ GetechnologiesMx - Test Software Developer
 Follow these steps to install and run the project locally:
 1. Clone the repository to your local machine using `git clone https://github.com/xavl369/GetechnologiesMx-Project.git`.
 2. Update the connection string in the `appsettings.json` file to match your desired database configuration.
-3. Run the project to create migrations automatically.
+3. Run the project to make migrations automatically.
 
 ## Images
 
